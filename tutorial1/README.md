@@ -1,1 +1,6 @@
-# 3S03
+# Tutorial 1
+
+Contents of this folder:
+* `tutorial_1.pdf` - Instructions for the tutorial
+* `Tutorial 1 Library System WITHOUT TESTS.zip` - Starting codebase to be used in the tutorial
+* `JUnit Refresher.pdf` - An overview of JUnit.
