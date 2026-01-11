@@ -6,3 +6,5 @@ Version: 2026W-1.0
 - Some content adopted from: Dr. Richard Paige
 
 For the tutorial guides, refer to Avenue.
+
+The content of this repository is an intellectual property owned by McMaster University. Do not distribute or use it without written consent. In such cases, contact Dr. Istvan David.
