@@ -1,4 +1,4 @@
-# SWFRENG 3S03 Tutorial sources
+# SWFRENG 3S03 Tutorial and assignment sources
 
 Version: 2026W-1.0
 
