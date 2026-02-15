@@ -1,0 +1,4 @@
+bankServerUnitTest\BankServerSeededBugsTest.class
+bankServerUnitTest\BankServerBasicTest.class
+BankServerFuzzTester\BankServerFuzzTester.class
+generator\GeneratedTests.class

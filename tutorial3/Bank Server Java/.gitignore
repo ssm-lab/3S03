@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+*.old

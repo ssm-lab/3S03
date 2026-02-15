@@ -1,0 +1,15 @@
+ [
+  { "field": "vehicleSpeedKmh",      "type": "int",    "min": 0,     "max": 260 },
+  { "field": "engineRpm",            "type": "int",    "min": 0,     "max": 8000 },
+  { "field": "throttlePercent",      "type": "double", "min": 0.0,   "max": 100.0 },
+  { "field": "brakePressureBar",     "type": "double", "min": 0.0,   "max": 200.0 },
+  { "field": "steeringAngleDegrees", "type": "double", "min": -540.0,"max": 540.0 },
+
+  { "field": "fuelLevelPercent",     "type": "double", "min": 0.0,   "max": 100.0 },
+  { "field": "batteryVoltage",       "type": "double", "min": 9.0,   "max": 16.0 },
+
+  { "field": "engineTemperatureC",   "type": "double", "min": -40.0, "max": 150.0 },
+  { "field": "tirePressurePsi",       "type": "double", "min": 20.0,  "max": 50.0 },
+
+  { "field": "odometerKm",            "type": "long",   "min": 0,     "max": 1000000 }
+]

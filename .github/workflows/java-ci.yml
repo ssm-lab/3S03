@@ -1,0 +1,27 @@
+name: Tutorial 3 - Java CI
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'tutorial3/**'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'tutorial3/**'
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+          cache: maven
+
+      - run: mvn clean test
+        working-directory: tutorial3/Bank Server Java

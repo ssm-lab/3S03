@@ -1,0 +1,17 @@
+bankServerExerciseWithCheckrep\BankServerWithACheckrep.class
+META-INF\MANIFEST.MF
+META-INF\maven\Bank_Server\Bank_Server\pom.properties
+bankServerExercise\BankException.class
+bankServerExerciseWithCheckrep\BankAccount.class
+bankServerExerciseWithCheckrep\Transaction.class
+bankServerExercise\Transaction$TransactionType.class
+bankServerExercise\Transaction.class
+generator\BankServerCheckRepTestGenerator.class
+bankServerExerciseWithCheckrep\BankException.class
+bankServerExerciseWithCheckrep\BankServerWithACheckrep$1.class
+bankServerExercise\BankServerInterface.class
+bankServerExercise\BankAccount.class
+bankServerExercise\BankServer.class
+bankServerExerciseWithCheckrep\Transaction$TransactionType.class
+bankServerExerciseWithCheckrep\BankServerInterface.class
+META-INF\maven\Bank_Server\Bank_Server\pom.xml
