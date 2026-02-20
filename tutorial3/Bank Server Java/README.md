@@ -1,10 +1,10 @@
 # Tutorial 3 – Automated Testing & CI/CD Tutorial
 
-![CI Status](https://github.com/ssm-lab/3S03/actions/workflows/java-ci.yml/badge.svg)
+![CI Status](https://github.com/ssm-lab/3S03-T3/actions/workflows/java-ci.yml/badge.svg)
 
 
 ## CI/CD Workflow Overview
-This project uses GitHub Actions to automatically verify every push and pull request.
+This project uses GitHub Actions to automatically verify correctness on every push and pull request.
 
 The CI pipeline performs the following steps:
 1. Builds the project using Maven

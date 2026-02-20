@@ -1,15 +1,15 @@
-package telementaryExercise;
+package telemetryExercise;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.*;
 
 
 import org.junit.Before;
 import org.junit.Test;
 
+import telementaryExercise.TelemetryGenerator;
 
-public class TelemetryGeneratorTest {
+
+public class telemetryGeneratorTest {
 
     private TelemetryGenerator generator;
 
