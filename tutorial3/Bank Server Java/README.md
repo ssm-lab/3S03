@@ -1,6 +1,6 @@
 # Tutorial 3 – Automated Testing & CI/CD Tutorial
 
-![CI Status](https://github.com/ssm-lab/3S03-T3/actions/workflows/java-ci.yml/badge.svg)
+![CI Status](https://github.com/ssm-lab/3S03/actions/workflows/java-ci.yml/badge.svg)
 
 
 ## CI/CD Workflow Overview
